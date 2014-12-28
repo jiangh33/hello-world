@@ -1,0 +1,3 @@
+[submodule "submodule-simplegit"]
+	path = submodule-simplegit
+	url = https://github.com/jiangh33/simplegit.git
